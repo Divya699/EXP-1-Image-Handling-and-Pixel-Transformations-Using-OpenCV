@@ -45,6 +45,12 @@ Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels.
 
 #  Program
+
+### Name: S.DIVYA PRIYA
+
+### Register Number: 212225240037
+
+### Ex. No. 01
 ```
 
 import cv2
