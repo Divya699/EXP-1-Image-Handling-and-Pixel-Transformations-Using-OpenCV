@@ -366,10 +366,34 @@ plt.axis("off")
 ```
 
 ## Output:
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+
+<img width="394" height="507" alt="Screenshot 2026-10-31 132958" src="https://github.com/user-attachments/assets/82b8fc15-7933-4d71-a463-b1ccc37cca73" />
+
+<img width="363" height="527" alt="Screenshot 2026-10-31 133009" src="https://github.com/user-attachments/assets/fe54b474-8345-4ba0-b647-5368ddfd9d92" />
+
+<img width="321" height="521" alt="Screenshot 2026-10-31 133018" src="https://github.com/user-attachments/assets/243c1ad5-3646-44c2-9dfe-67a071cf4f75" />
+
+<img width="282" height="508" alt="Screenshot 2026-10-31 133028" src="https://github.com/user-attachments/assets/ad9234d1-9392-498b-9284-7c81b08f6a11" />
+
+<img width="308" height="533" alt="Screenshot 2026-10-31 133035" src="https://github.com/user-attachments/assets/4a5f0625-7e30-4f97-8b1d-948358de3d44" />
+
+<img width="289" height="522" alt="Screenshot 2026-10-31 133115" src="https://github.com/user-attachments/assets/59c44055-0b52-4bcd-8cb0-f74bd312ae27" />
+
+<img width="382" height="521" alt="Screenshot 2026-10-31 133205" src="https://github.com/user-attachments/assets/21a0b4c2-484d-4707-a6cd-a47286b318d3" />
+
+<img width="265" height="502" alt="Screenshot 2026-10-31 133215" src="https://github.com/user-attachments/assets/ad584a9c-189b-4860-9770-5f579e2f77fb" />
+
+<img width="334" height="527" alt="Screenshot 2026-10-31 133228" src="https://github.com/user-attachments/assets/8472d043-fb4e-428a-8135-83f100a82e96" />
+
+<img width="341" height="506" alt="Screenshot 2026-10-31 133244" src="https://github.com/user-attachments/assets/218ebe2d-72f3-4857-9da1-5be8c56147a1" />
+
+<img width="455" height="516" alt="Screenshot 2026-10-31 133252" src="https://github.com/user-attachments/assets/2eee0fbe-9917-4903-b1b0-29d1d4e1e497" />
+
+<img width="656" height="523" alt="Screenshot 2026-10-31 133259" src="https://github.com/user-attachments/assets/a979dda5-3f0e-4ebb-b40e-d5cda76bb341" />
+
+<img width="361" height="515" alt="Screenshot 2026-10-31 133312" src="https://github.com/user-attachments/assets/2ca2897c-ace0-4221-8e31-264bd10cd562" />
+
+<img width="330" height="507" alt="Screenshot 2026-10-31 133319" src="https://github.com/user-attachments/assets/2bbf958b-dcd0-41fd-ac48-c7a6b06e6c3d" />
 
 ## Result:
 
