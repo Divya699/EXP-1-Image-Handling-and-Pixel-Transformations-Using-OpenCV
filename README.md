@@ -120,7 +120,9 @@ img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 img_rgb.shape
 
-circle_img = cv2.circle(img_rgb,(400,300),150,(255,255,0),10) # cv2.circle(image, center, radius, color, thickness)
+circle_img = cv2.circle(img_rgb,(400,300),150,(255,255,0),10)
+
+cv2.circle(image, center, radius, color, thickness)
 
 plt.imshow(circle_img, cmap='viridis')
 
@@ -145,7 +147,7 @@ img.shape
 ### Draw a rectangle around the Whole image
 ```
 
-rectangle_img = cv2.rectangle(img_rgb, (0, 0), (768, 600), (0, 255, 255), 10)  # cv2.rectangle(image, start_point, end_point, color, thickness)
+rectangle_img = cv2.rectangle(img_rgb, (0, 0), (768, 600), (0, 255, 255), 10)  
 
 plt.imshow(rectangle_img, cmap='viridis')
 
@@ -161,15 +163,13 @@ plt.show()
 ```
 image = cv2.imread('photo 3.jpeg')
 
-### Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
-
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 ```
 
 ### Add text to the image
 ```
 
-text_img = cv2.putText(img_rgb, "OpenCV Drawing", (50,100), cv2.FONT_HERSHEY_SIMPLEX, 3, (0, 255, 255), 10)  ## cv2.putText(image, text, position, font, font_scale, color, thickness)
+text_img = cv2.putText(img_rgb, "OpenCV Drawing", (50,100), cv2.FONT_HERSHEY_SIMPLEX, 3, (0, 255, 255), 10)
 
 plt.imshow(text_img, cmap='viridis')
 
@@ -280,7 +280,7 @@ image.shape
 ### Resize the image to half its size
 ```
 
-resized_image = cv2.resize(image, (768 // 2, 600 // 2))  # (new_width, new_height)
+resized_image = cv2.resize(image, (768 // 2, 600 // 2)) 
 ```
 ### Convert BGR to RGB for displaying with Matplotlib
 ```
