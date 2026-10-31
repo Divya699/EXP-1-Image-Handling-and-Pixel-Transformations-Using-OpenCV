@@ -364,3 +364,14 @@ plt.title("Flipped Vertically")
 
 plt.axis("off")
 ```
+
+## Output:
+- **i)** Read and Display an Image.  
+- **ii)** Adjust Image Brightness.  
+- **iii)** Modify Image Contrast.  
+- **iv)** Generate Third Image Using Bitwise Operations.
+
+## Result:
+
+Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
+
