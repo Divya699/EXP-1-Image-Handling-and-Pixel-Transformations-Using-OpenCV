@@ -72,7 +72,7 @@ img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 ### Display the image using Matplotlib
 ```
-plt.imshow(img_rgb, cmap='viridis')  # You can change 'viridis' to another cmap or use None for RGB images
+plt.imshow(img_rgb, cmap='viridis')
 
 plt.title("Original Image")
 
