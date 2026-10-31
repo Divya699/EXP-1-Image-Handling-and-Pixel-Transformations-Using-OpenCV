@@ -61,7 +61,7 @@ import matplotlib.pyplot as plt
 ### Read the image using OpenCV
 ```
 
-img = cv2.imread('pavithra image.png', cv2.IMREAD_COLOR)
+img = cv2.imread('photo 3.jpeg', cv2.IMREAD_COLOR)
 ```
 
 ### Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -86,7 +86,7 @@ plt.show()
 ### Load the image
 ```
 
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 
@@ -111,7 +111,7 @@ plt.show()
 ### Load the image
 ```
 
-image = cv2.imread('pavithra image.png') 
+image = cv2.imread('photo 3.jpeg') 
 ```
 
 ### Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -133,7 +133,7 @@ plt.show()
 ### 3.Draw a rectangle around  the whole image
 ### Load the image
 ```
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 ```
 
 ### Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -159,7 +159,7 @@ plt.show()
 ### 4.Add the text "OpenCV Drawing" at the top-left corner of the image.
 ### Load the image
 ```
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 
 ### Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 
@@ -184,7 +184,7 @@ plt.show()
 ### Load the image
 ```
 
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
       
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ```
@@ -272,7 +272,7 @@ plt.show()
 
 ### Load the image
 ```
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 
 image.shape
 ```
@@ -301,7 +301,7 @@ plt.show()
 ```
 ### Load the image
 ```
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 
 image.shape
 ```
@@ -328,7 +328,7 @@ plt.show()
 ### Load the image
 ```
 
-image = cv2.imread('pavithra image.png')
+image = cv2.imread('photo 3.jpeg')
 ```
 
 ### Flip the image horizontally (left-right)
